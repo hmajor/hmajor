@@ -21,4 +21,4 @@
 
 
 [instagram]: https://www.instagram.com/Henry
-[linkedin]: [https://linkedin.com/in/HenryMajor](https://www.linkedin.com/in/henry-major-4357848?)
+[linkedin]: https://www.linkedin.com/in/Henry
