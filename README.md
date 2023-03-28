@@ -18,7 +18,7 @@
 [<img align="left" alt=Henry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Henry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]:https://www.linkedin.com
+[linkedin]: https://linkedin.com/in/Henry
 [instagram]:https://www.instagram.com  
 
 
