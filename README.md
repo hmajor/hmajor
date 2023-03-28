@@ -21,4 +21,4 @@
 
 
 [instagram]: https://www.instagram.com/Henry
-[linkedin]: https://www.linkedin.com/in/Henry
+[instagram]: https://www.instagram.com/Josh
