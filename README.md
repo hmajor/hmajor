@@ -1,6 +1,6 @@
 
 
-**hmajor/hmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hmajor/hmajor** is a  repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>Hi, I'm Henry, an <a href="https://www.linkedin.com/in/henry-major-4357848/">IT Support Specialist</a>☺</h1>
 
 <h2>👨🏿‍💻 Information Technology Projects:</h2>
